@@ -1,0 +1,5 @@
+import os
+AWS_ENDPOINT = "http://Lb-65640965-7bb755500252db8f.elb.us-west-1.amazonaws.com:8080"
+print(f"جاري الاتصال بـ AWS على: {AWS_ENDPOINT}")
+
+
